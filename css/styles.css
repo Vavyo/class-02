@@ -1,0 +1,41 @@
+*{
+  outline: solid rgb(154, 63, 245);
+}
+
+body{
+  margin: 0 auto;
+  width: 1000px;
+  background-color: rgb(58, 204, 204);
+}
+
+main{
+
+}
+
+header{
+
+}
+
+nav{
+  background-color: violet;
+}
+
+ul li{
+  display: inline;
+  color: whitesmoke;
+  padding: 10px;
+  border-radius: 8px;
+  background-color: rgb(71, 129, 255);
+}
+
+footer{
+
+}
+
+#another-style{
+  border: 50px solid rgba(0, 0, 0, 0.699);
+}
+
+.more-styles {
+
+}
